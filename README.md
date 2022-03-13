@@ -2,7 +2,7 @@
 
 ## ブログ
 
-* https://github.com/inokappa/elastic-apm-sandbox
+* https://inokara.hateblo.jp/entry/2022/03/13/192922
 
 ## 滅びの呪文
 
