@@ -1,0 +1,13 @@
+--- config/database.yml.bk	2022-03-06 11:53:00.000000000 +0900
++++ config/database.yml	2022-03-06 11:53:12.000000000 +0900
+@@ -14,8 +14,8 @@
+   encoding: utf8mb4
+   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+   username: root
+-  password:
+-  host: localhost
++  password: password
++  host: db
+ 
+ development:
+   <<: *default
